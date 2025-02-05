@@ -30,6 +30,9 @@ Your data is used primarily to enhance app functionality and improve services. W
 - Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this application to display advertisements and other useful information.
 - Such tracking is done directly by third parties through their own servers and is subject to their own privacy policies. You can opt out of personalized ads in your app settings or through Google's Ad Settings.
 
+## Advertisement and Other Third Parties
+Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this application to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. You can opt-out of personalized ads in your app settings or through Google's Ad Settings
+
 ## Links to Third-Party Websites
 
 This app may contain links to external websites. By clicking on a third-party link, users acknowledge that they are leaving our application, and we are not responsible for the privacy practices of external websites. We advise reviewing the privacy policies of any third-party sites you visit.
@@ -70,6 +73,9 @@ This Privacy Policy is effective as of October 7, 2024. We may update this polic
 
 - If any significant updates are made, we will notify users within the app.
 - We retain the right to modify our Privacy Policy when needed to ensure compliance with new laws and policies. Users will be notified of any significant changes.
+
+## Policy Updates
+We retain the right to modify our Privacy Policy when needed to ensure compliance with new laws and policies. Users will be notified of any significant changes.
 
 ## Photo and Video Permissions Policy
 
