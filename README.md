@@ -29,7 +29,8 @@ Your data is used primarily to enhance app functionality and improve services. W
 - We may share non-personal user data with analytics providers like Google Analytics or Firebase to improve app performance.
 - Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this application to display advertisements and other useful information.
 - Such tracking is done directly by third parties through their own servers and is subject to their own privacy policies. You can opt out of personalized ads in your app settings or through Google's Ad Settings.
-
+- Our app collects and processes location data to calculate the distance between students and teachers. This feature helps enhance the learning experience by providing location-based functionalities, such as attendance verification and proximity-based interactions.
+  
 ## Advertisement and Other Third Parties
 Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this application to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. You can opt-out of personalized ads in your app settings or through Google's Ad Settings
 
